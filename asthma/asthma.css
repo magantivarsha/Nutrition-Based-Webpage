@@ -1,0 +1,43 @@
+h2{
+    color:darkmagenta;
+    
+    }
+    body{
+        background-color:azure;
+    }
+    #i{
+        text-align:center;
+        color:rgb(210, 99, 30);
+    }
+    #p{
+        margin-left: 200px;
+       width: 55%;
+       max-width: 1000px;
+        float:right;
+    }
+    #o{
+        margin-left: 300px;
+        float:left;
+    }
+    #t{
+        margin-right:200px;
+        float:right;
+    }
+    .headink{
+        text-align: center;
+        text-shadow: 25px;
+        color:crimson;
+    }
+    .left{
+        float:left;
+    }
+    img{
+        padding: 10px 30px;
+    }
+    img:hover{
+        transform: scale(1.1);
+
+    }
+    div p{
+        width:400px;
+    }
